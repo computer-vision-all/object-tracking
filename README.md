@@ -4,8 +4,8 @@
 
 ## 资源
 
-1·Siamese Instance Search for Tracking.[论文](https://arxiv.org/pdf/1605.05863.pdf)[代码](https://github.com/taotaoorange/SINT)
-2·Fully-Convolutional Siamese Networks for Object Tracking.[论文](https://arxiv.org/pdf/1606.09549.pdf)[matlab代码](https://github.com/bertinetto/siamese-fc)[pytorch代码](https://github.com/rafellerc/Pytorch-SiamFC)
+1.  Siamese Instance Search for Tracking.[论文](https://arxiv.org/pdf/1605.05863.pdf)[代码](https://github.com/taotaoorange/SINT)
+2.  Fully-Convolutional Siamese Networks for Object Tracking.[论文](https://arxiv.org/pdf/1606.09549.pdf)[matlab代码](https://github.com/bertinetto/siamese-fc)[pytorch代码](https://github.com/rafellerc/Pytorch-SiamFC)
 3.End-to-end representation learning for Correlation Filter based tracking.[论文](http://openaccess.thecvf.com/content_cvpr_2017/papers/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.pdf)[代码](https://github.com/bertinetto/cfnet)
 4.Learning Dynamic Siamese Network for Visual Object Tracking.[论文](http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf)[代码](https://github.com/tsingqguo/DSiam)
 5.SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation.[论文](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf)
