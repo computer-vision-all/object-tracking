@@ -2,6 +2,11 @@
 
 记录孪生网络相关的英文文献及其代码。
 
+## 图表
+<div align="center">
+  <img src="https://github.com/shu-ping/siam/blob/master/images/%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA.png" width="600px" />
+</div>
+
 ## 资源
 
 1.  Siamese Instance Search for Tracking.[论文](https://arxiv.org/pdf/1605.05863.pdf)  [代码](https://github.com/taotaoorange/SINT)
